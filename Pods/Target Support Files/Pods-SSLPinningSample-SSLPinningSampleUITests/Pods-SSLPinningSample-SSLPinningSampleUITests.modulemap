@@ -1,0 +1,6 @@
+framework module Pods_SSLPinningSample_SSLPinningSampleUITests {
+  umbrella header "Pods-SSLPinningSample-SSLPinningSampleUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
